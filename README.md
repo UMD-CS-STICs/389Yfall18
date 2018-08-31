@@ -19,7 +19,7 @@ By the end of the course, students will
     + Canny edges
 	+ Hough transform
 	+ Support Vector Machines
-    + Convulutional Neural Networks
+    + Convolutional Neural Networks
 - Control
     + PID
     + Sample-based control
@@ -57,11 +57,11 @@ By the end of the course, students will
 | 7    | Neural networks and backpropagation | | |
 | 8    | Deep learning and Convolutional Neural Networks | | Project 2 out (NN)|
 | 9    | Behavioral Cloning|           |         |
-| 10   | Recurrent Neural Networks | | |
+| 10   | Recurrent Neural Networks | Codelab 4 (behavioral cloning) | |
 | 11   | Reinforcement learning | |         |
 | 12   | Deep Q-learning for motion planning |      | Project 3 out (RL)         |
 | 13   | Extra topics (Localization / Mapping)|          |         |
-| 14   | Bayesian Filters | |    |
+| 14   | Bayesian Filters | Codelab 5 (kalman filters) |    |
 | 15   | SLAM |          | Project 3 due |
 
 ## Grading
