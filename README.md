@@ -1,4 +1,4 @@
-# CMSC389Z: Practical Methods For Self Driving Cars
+# CMSC389Y: Practical Methods For Self Driving Cars
 ![Particle Filter Localization](https://i.ytimg.com/vi/MqUbdd7ae54/maxresdefault.jpg)
 
 ## Course Description
