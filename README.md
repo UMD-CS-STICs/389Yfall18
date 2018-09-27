@@ -50,9 +50,9 @@ By the end of the course, students will
 | ---- | ----------------------------------- | -------- | -------                |
 | 1    | Introduction to scene understaning with computer vision | Codelab 1 (numpy)         |                        |
 | 2    | Computer vision, traditional techniques | Codelab 2 (opencv)| |              |           
-| 3    | Computer vision | | Project 1 out|
-| 4    | Introduction to control and traditional approaches | | |              |
-| 5    | Obstacle Avoidance| | Project 1 due |
+| 3    | Computer vision (Canny Edges and Hough Transform)| | Project 1 out|
+| 4    | Computer vision (Homography)| | |              |
+| 5    | Introduction to control and traditional approaches | | |              |
 | 6    | Introduction to neural networks | Codelab 3 (NN)|         |        |
 | 7    | Neural networks and backpropagation | | |
 | 8    | Deep learning and Convolutional Neural Networks | | Project 2 out (NN)|
