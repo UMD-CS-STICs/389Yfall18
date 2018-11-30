@@ -41,7 +41,7 @@ I = np.array([
 
 
 class KalmanFilter(object):
-    '''Your implementation of a Histogram Filter'''
+    '''Your implementation of a Kalman Filter'''
 
     def __init__(self):
         # Since we are trying to avoid multuple pedestrians, we will track multiple states and
